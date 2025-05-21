@@ -1,4 +1,4 @@
-# Flappy Bird
+# Flappy
 Flappy Bird game using the Pygame library  
 
 https://github.com/user-attachments/assets/0d0ebb8c-3615-4092-8057-013b0775d5ec
@@ -23,10 +23,10 @@ py -m pip-install pygame
 
 - Clone the repository:  
 ```
-$ git clone https://github.com/shreyash0x3/FlappyBird.git
+$ git clone https://github.com/shreyash0x3/flappy.git
 ```
 ```
-$ cd FlappyBird
+$ cd flappy
 ```
 
 <br/>
